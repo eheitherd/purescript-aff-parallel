@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "install": "bower install",
+    "build": "pulp build",
+    "test": "pulp test",
+    "watch": "pulp -w test"
+  },
+  "devDependencies": {
+    "bower": "^1.8.8",
+    "pulp": "^12.3.1",
+    "purescript": "^0.12.3",
+    "purescript-psa": "^0.7.3"
+  },
+  "private": true
+}
