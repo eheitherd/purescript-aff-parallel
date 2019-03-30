@@ -10,9 +10,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eheitherd/purescript-aff-parallel.git"
+    "url": "git://github.com/eheitherd/purescript-aff-parallel.git"
   },
-  "homepage": "https://github.com/eheitherd/purescript-aff-parallel#readme",
+  "homepage": "https://github.com/eheitherd/purescript-aff-parallel",
   "ignore": [
     "**/.*",
     "node_modules",
